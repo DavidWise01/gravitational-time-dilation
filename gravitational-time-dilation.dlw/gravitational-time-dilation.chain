@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 564
 slug  : gravitational-time-dilation
-seal  : 50e1af515b83fa4706ddf63f9fac4113fe7d25c7e5dcb5d3dfae4dc50a04bfc9
-prev  : ace8fd800b224bc9852a9375d850e64220894457a771cd6e2f7b56a569b84904
-link  : 50e2d517d9749ba77ee4036f9face92eb1f679e6c3d7f5c7b1b861933c6b6f7d
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : 948c91655f99274b16026328b496036a634b18f9a09ce5ece2b869b67de0eee4
+prev  : 1380e07c0f30eaf6914a2f695939300c29e41f0c4ce02748bd2e75ce13ef1e3a
+link  : 0ae4543a7b912b466c221e06c93128e58d9a164a2cb1eb1810fd6e6efc8c67ff
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
