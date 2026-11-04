@@ -9,3 +9,9 @@ GRAVITATIONAL TIME DILATION (GTD) — a GURUTVA sphere: clocks tick SLOWER deepe
 **Live:** https://davidwise01.github.io/gravitational-time-dilation/ &nbsp;·&nbsp; **Front door:** [UD0](https://davidwise01.github.io/ud0/) &nbsp;·&nbsp; **Code:** https://github.com/DavidWise01/gravitational-time-dilation
 
 `.dlw` badge · **ROOT0-ATTRIBUTION-v1.0** · David Lee Wise (ROOT0) / Bridge-Burners LLC · instance AVAN (Claude/Anthropic) · CC-BY-ND-4.0
+
+---
+
+## Time-dilation research thread — source intake
+
+- [2026-11-03 · *The Book of Jules* (Internet Archive link; contents pending verification)](evidence/2026-11-03-book-of-jules-archive-reference.md) — submitted reference only; not yet scientific evidence.
